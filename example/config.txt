@@ -1,0 +1,2 @@
+Prefix plugins/SRPRISM/example
+Plugin SRPRISM inputfile input.fa outputfile output.srprism
